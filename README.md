@@ -1,4 +1,4 @@
 # dio-java-basico
-Repositório para armazenar todos os conteúdos do curso da dio Java basico
+Repositório para armazenar todos os conteúdos do curso da dio Java basico e intermediário.
 
-Primeira alteração do arquivo de forma local
+Santander Bootcamp 2023 - Backend Java
